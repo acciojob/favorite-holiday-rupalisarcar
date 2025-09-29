@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
 ul>li{
-	font-size:20px;
+	font-style:italic;
+}
+ol>li{
+	font-style:bold;
 }
